@@ -1,5 +1,7 @@
 # Sistem Pakar Diagnosa Penyakit Ringan
 TASLIM_NURALIM 2306032
+
+
 Sistem ini merupakan contoh **sistem pakar sederhana** yang dibuat menggunakan bahasa pemrograman **Python** dan pustaka **experta**. Sistem ini digunakan untuk mendiagnosa penyakit berdasarkan gejala yang dimasukkan oleh pengguna.
 
 ## Fitur
@@ -61,11 +63,3 @@ Sistem_pakar/
 ├── main.py         # Program utama sistem pakar
 └── README.md       # Dokumentasi ini
 ```
-
-## Catatan
-
-Sistem ini bersifat edukatif dan **tidak menggantikan konsultasi medis profesional**. Silakan gunakan sebagai contoh pembelajaran pembuatan sistem pakar berbasis aturan.
-
-## Lisensi
-
-Proyek ini bebas digunakan untuk keperluan belajar dan pengembangan lebih lanjut.
